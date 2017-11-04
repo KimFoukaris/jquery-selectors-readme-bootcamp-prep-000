@@ -16,6 +16,6 @@ function divSelector() {
   return divs
 }
 function firstListItem() {
-  const fl = $('#pic-list img:first-child')
+  const fl = $('#pic-list li:first-child')
   return fl
 }
